@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marshall McLuhan Center]]></title>
         <description><![CDATA[Marshall McLuhan Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marshall-mcluhan-center/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 01:46:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 11:15:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marshall-mcluhan-center/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi/uMiVW90BJEE/default.jpg">]]></description>
+            <link>https://thegrid.ai/marshall-mcluhan-center/4050f079-c8a1-4b3d-a060-e6eaea072ba1/index.html</link>
+            <guid isPermaLink="false">4050f079-c8a1-4b3d-a060-e6eaea072ba1</guid>
+            <pubDate>Wed, 30 Mar 2016 11:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Work of the Marshall McLuhan Center</p>]]></description>
-            <link>undefined9017b11c-f770-446d-af57-31c73190417f/index.html</link>
+            <link>https://thegrid.ai/marshall-mcluhan-center/9017b11c-f770-446d-af57-31c73190417f/index.html</link>
             <guid isPermaLink="false">9017b11c-f770-446d-af57-31c73190417f</guid>
             <pubDate>Mon, 22 Feb 2016 01:46:20 GMT</pubDate>
         </item>
